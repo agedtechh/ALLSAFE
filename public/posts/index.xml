@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on ALL-SAFE</title>
+    <link>https://example.org/posts/</link>
+    <description>Recent content in Posts on ALL-SAFE</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 Dec 2024 02:48:03 -0600</lastBuildDate>
+    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://example.org/posts/my-first-post/</link>
+      <pubDate>Sat, 07 Dec 2024 02:48:03 -0600</pubDate>
+      <guid>https://example.org/posts/my-first-post/</guid>
+      <description>&lt;h1 id=&#34;hello&#34;&gt;Hello!&lt;/h1&gt;&#xA;&lt;p&gt;I hope this works. So far this is promising and I feel proud I was able to get some site up and running.&lt;/p&gt;&#xA;&lt;h2 id=&#34;security-principles&#34;&gt;Security Principles&lt;/h2&gt;&#xA;&lt;h1 id=&#34;cia-triad&#34;&gt;CIA Triad.&lt;/h1&gt;&#xA;&lt;p&gt;I will delete this. This is solely a test site so I can fully understand how Hugo works.&lt;/p&gt;&#xA;&lt;p&gt;Here is a little &lt;em&gt;text that is Italicized&lt;/em&gt;. Does &lt;strong&gt;Bold work AS WELL?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;so-far&#34;&gt;&lt;strong&gt;SO far&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;I was having &lt;strong&gt;lots&lt;/strong&gt; of trouble getting hugo to properly run. I was using the flatpak from the LM Software Manager, and then I tried using:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
