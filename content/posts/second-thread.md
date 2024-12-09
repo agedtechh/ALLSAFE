@@ -23,3 +23,7 @@ OOOH, okay. ran the commands in the order above. nothing changed. When running `
 Lets see how this WORKS!
 
 IT WORKED! Just had to wait a bit for the repo to update and refresh the link!!
+
+*EDIT: Use `github add -A` instead of `git add .`.
+
+Used [this link](https://gohugo.io/hosting-and-deployment/hosting-on-github/) to deploy my site on github.*
