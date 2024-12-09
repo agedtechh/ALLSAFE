@@ -9,13 +9,17 @@ I am trying to see if I can get a better grasp on the `git` commands needed to p
 ## GIT This?
 
 What I will try is the following:
+
 `git add .`
 `git push origin main`
 `git commit -m "Second thread"`
 
 OOOH, okay. ran the commands in the order above. nothing changed. When running `git push` I would get a message stating everything is up to date. My site didn't change. Neither did my repo. But, I switched the last two commands and ran them in this order:
+
 `git add .`
 `git commit -m "MESSAGE"`
 `git push origin main`
 
 Lets see how this WORKS!
+
+IT WORKED! Just had to wait a bit for the repo to update and refresh the link!!
